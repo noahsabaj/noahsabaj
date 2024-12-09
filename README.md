@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/demo/?font=Tahoma&color=F7F118&multiline=true&lines=Noah+Sabaj;Web+%26+Game+Dev;CS+Student+%40+Oakland+University;Software+Developer+%40+United+Wholesale+Mortgage)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tahoma&pause=1000&color=F7F118&multiline=true&width=435&lines=Noah+Sabaj;Web+%26+Game+Dev;CS+Student+%40+Oakland+University;Software+Developer+%40+United+Wholesale+Mortgage)](https://git.io/typing-svg)
